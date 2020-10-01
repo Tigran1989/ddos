@@ -1,5 +1,5 @@
 from time import sleep
-print("DDoSer")
+print("Armenia")
 print("Url сайта:")
 x = input()
 print("Количество потоков:")
